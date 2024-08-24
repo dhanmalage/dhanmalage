@@ -9,11 +9,11 @@
 </div>
 <br />
 
-- 🌱 I’m currently working as a `Solution Architect`
+- 🌱 I’m currently working as a `Full Stack Developer`
 - 🧑‍💻 I love using Software as a solution for every Problem
-- 🤝 I’m available for `freelancing`
+- 🤝 I’m available for `Full Time Work`
 - 🔥 Hire me on <a href="https://www.upwork.com/freelancers/~01d794db5bd4dfe6af" target="blank">Upwork</a>
-- 💬 Ask me about `php`, `JavaScript`, `MySQL`, `Laravel`, `CodeIgniter`, `WordPress`, `Python`, `Flutter`, `Dart`
+- 💬 Ask me about `php`, `JavaScript`, `MySQL`, `Laravel`, `Vue JS`, `Inertia JS`, `CodeIgniter`, `WordPress`, `Python`, `Flutter`, `Dart`
 - 📫 How to reach me **dmmdust@gmail.com**
 - 🗒 My resume <a href="https://dhanmalage.github.io/resume/" target="blank">https://dhanmalage.github.io/resume/</a>
 
