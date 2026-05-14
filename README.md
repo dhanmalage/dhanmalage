@@ -66,16 +66,17 @@ contact: dmmdust@gmail.com
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhanmalage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanmalage&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhanmalage&theme=tokyonight" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhanmalage&theme=tokyonight" />
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dhanmalage&theme=tokyonight&hide_border=false" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhanmalage&theme=tokyonight&utcOffset=10" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhanmalage&theme=tokyonight" />
 
 <br />
 
-[![Dhan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanmalage&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanmalage&theme=tokyonight" />
 
 <br />
 
