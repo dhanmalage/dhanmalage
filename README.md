@@ -24,7 +24,7 @@ focus:
   - Crafting clean APIs and elegant UIs
   - Open to Full-Time opportunities
 currently_learning: [TypeScript, Next.js, AI tooling]
-ask_me_about: [PHP, Laravel, Vue, Inertia, WordPress, Flutter]
+ask_me_about: [PHP, Laravel, Vue, React, Inertia, WordPress, Rails, ColdFusion, Flutter]
 contact: dmmdust@gmail.com
 ```
 
@@ -40,7 +40,10 @@ contact: dmmdust@gmail.com
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![ColdFusion](https://img.shields.io/badge/ColdFusion-1972F5?style=for-the-badge&logo=adobe&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
