@@ -1,62 +1,108 @@
-<h1> Hello there, fellow < Developers/ >! 👋 </h1>
-<p align='center'>
-</p>
+<div align="center">
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=dhanmalage.dhanmalage&left_text=Profile%20views)
-[![Github](https://img.shields.io/github/followers/dmmdust?label=Follow&style=social)](https://github.com/dhanmalage)
+<a href="https://whenalive.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dhan+Malage+%F0%9F%91%8B;Full+Stack+Developer;PHP+%E2%80%A2+Laravel+%E2%80%A2+Vue+%E2%80%A2+WordPress;Always+shipping%2C+always+learning." alt="Typing SVG" />
+</a>
 
-<div size='20px'> Hi! My name is Dhan Malage. Thank You for taking the time to view my GitHub Profile 🤗
-</div>
 <br />
 
-- 🌱 I’m currently working as a `Full Stack Developer`
-- 🧑‍💻 I love using Software as a solution for every Problem
-- 🤝 I’m available for `Full Time Work`
-- 🔥 Hire me on <a href="https://www.upwork.com/freelancers/~01d794db5bd4dfe6af" target="blank">Upwork</a>
-- 💬 Ask me about `php`, `JavaScript`, `MySQL`, `Laravel`, `Vue JS`, `Inertia JS`, `CodeIgniter`, `WordPress`, `Python`, `Flutter`, `Dart`
-- 📫 How to reach me **dmmdust@gmail.com**
-- 🗒 My resume <a href="https://dhanmalage.github.io/resume/" target="blank">https://dhanmalage.github.io/resume/</a>
+[![Profile views](https://komarev.com/ghpvc/?username=dhanmalage&label=Profile%20views&color=00d9ff&style=flat)](https://github.com/dhanmalage)
+[![GitHub followers](https://img.shields.io/github/followers/dhanmalage?label=Follow&style=social)](https://github.com/dhanmalage)
 
-<br>
+</div>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanmalage&theme=algolia" alt="dhanmalage" /></p>
+---
 
-<br>
-<br>
+### 🧑‍💻 About Me
 
-## 🛠️ My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+```yaml
+name: Dhan Malage
+role: Full Stack Developer
+location: Available worldwide (remote)
+focus:
+  - Building scalable web & mobile applications
+  - Crafting clean APIs and elegant UIs
+  - Open to Full-Time opportunities
+currently_learning: [TypeScript, Next.js, AI tooling]
+ask_me_about: [PHP, Laravel, Vue, Inertia, WordPress, Flutter]
+contact: dmmdust@gmail.com
+```
 
-- Fullstack Development
-- Web Applications Development
-- Mobile Applications Development
-- Laravel, Codeigniter, Wordpress
-- PHP, MySQL, JavaScript, Python, Flutter, Dart
-- Git, Linux, Apache, Ngnix, Vagrant
-- HTML, CSS, jQuery, Bootstrap
+---
 
-<br>
-<br>
+### 🛠️ Tech Stack
 
-## 🤝 Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+<div align="center">
 
-- <a href="mailto:dhanmalage@gmail.com">GMail</a>
-- <a href="https://www.linkedin.com/in/dhanmalage/">LinkedIn</a>
-- <a href="https://twitter.com/dmmdust">Twitter</a>
-- <a href="https://github.com/dhanmalage">GitHub</a>
-- <a href="https://stackoverflow.com/users/4322960/dhan">Stackoverflow</a>
-  
-<br>
-<br>
-<br>
-  
-[![Dhan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dhanmalage&theme=algolia)](https://git.io/praveenscience)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
+</div>
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanmalage&theme=algolia) | ![Dhan's github stats](https://github-readme-stats.vercel.app/api?username=dhanmalage&show_icons=true&theme=algolia) |
-| --- | --- |
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhanmalage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanmalage&layout=compact&theme=tokyonight" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dhanmalage&theme=tokyonight&hide_border=false" />
+
+<br />
+
+[![Dhan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanmalage&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br />
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=dhanmalage&theme=tokyonight&no-frame=true&margin-w=10&column=7)
+
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-whenalive.com-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://whenalive.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanmalage/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanmalage)
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/punsisi/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4322960/dhan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmmdust@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐️ From [dhanmalage](https://github.com/dhanmalage) — *"I love using software as a solution for every problem."*
+
+</div>
 
 <!---
 dhanmalage/dhanmalage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
